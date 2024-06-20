@@ -8,7 +8,7 @@
   let rodadas = 0
   let maxrodadas = 10 
 
-const numero = Math.floor(Math.random() * 100) + 1
+const numero = Math.floor(Math.random() * 100) + 101
 
 console.log('bem vindo')
 function palpite(){
